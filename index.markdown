@@ -4,6 +4,8 @@
 
 layout: home
 ---
+
 Pasta Unlimited is committed to solving the forgotten problems of the world. 
 
-![Pasta Unlimited](/assets/img/pasta-unlimited.jpg)
+
+![Pasta Unlimited Logo](/assets/img/pasta-unlimited.jpg)

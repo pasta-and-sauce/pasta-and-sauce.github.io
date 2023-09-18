@@ -5,7 +5,8 @@
 layout: home
 ---
 
-Pasta Unlimited is committed to solving the forgotten problems of the world. 
-
-
-![Pasta Unlimited Logo](/assets/img/pasta-unlimited.jpg)
+<div class="main-content">
+  <h1> Pasta Unlimited  </h1>
+  
+  <p>Solving the forgotten problems of the world. </p> 
+</div>
